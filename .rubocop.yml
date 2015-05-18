@@ -1,0 +1,13 @@
+AllCops:
+  Include:
+    - Rakefile
+  Exclude:
+    - .kitchen/**/*
+    - vendor-cookbooks/**/*
+
+Encoding:
+  Enabled: false
+LineLength:
+  Enabled: false
+Style/SingleSpaceBeforeFirstArg:
+  Enabled: false

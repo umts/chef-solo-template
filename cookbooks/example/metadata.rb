@@ -1,0 +1,7 @@
+name             'example'
+maintainer       'UMass Transit'
+maintainer_email 'transit-it@admin.umass.edu'
+license          'apachev2'
+description      'Example cookbook'
+long_description 'Example cookbook'
+version          '0.1.0'
